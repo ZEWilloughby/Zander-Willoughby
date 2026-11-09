@@ -1,8 +1,8 @@
 # Zander Willoughby
 
-**Peace and conflict researcher** working on climate security, gender and conflict, and territorial autonomy in the Nordic-Baltic region.
+**Peace and conflict researcher** working on climate security, gender and conflict, and territorial autonomy.
 
-Based in Mariehamn, Åland Islands. Research at the [Åland Islands Peace Institute](https://www.peace.ax/) (Ålands fredsinstitut).
+Based in Mariehamn, Åland Islands, at the [Åland Islands Peace Institute](https://www.peace.ax/) (Ålands fredsinstitut). Seeking new opportunities from January 2027 in research, programme, and policy roles across peace, security, gender, and climate.
 
 ---
 
@@ -14,17 +14,17 @@ Based in Mariehamn, Åland Islands. Research at the [Åland Islands Peace Instit
 - LinkedIn: [linkedin.com/in/zanderewilloughby](https://www.linkedin.com/in/zanderewilloughby/)
 - ORCID: [0009-0005-7079-0620](https://orcid.org/0009-0005-7079-0620)
 
+---
+
 ### Background
 
-MSSc in Peace and Conflict Studies, Uppsala University (Rotary Peace Fellow). Before research, seven years in peacebuilding practice with Search for Common Ground, the Alliance for Peacebuilding (+Peace) and Nonviolent Peaceforce, including co-leading ConnexUs, a knowledge-sharing platform for peacebuilders in conflict-affected contexts.
+I’m a peace and conflict researcher at the Åland Islands Peace Institute, where I work on Åland’s demilitarisation, autonomy and minority protection. Before that, I spent several years in peacebuilding practice in Washington, DC, at Search for Common Ground and the +Peace Coalition at the Alliance for Peacebuilding. That work covered knowledge-sharing, strategy, coalition-building, and advocacy on Youth, Peace & Security. I hold a master’s in Peace & Conflict Studies from Uppsala University, where I was a Rotary Peace Fellow and researched how gender inequality shapes the link between climate change and communal violence.
 
 Languages: English, Swedish, French.
 
-### Research
+### Research interests
 
-- **Climate, gender and conflict.** How gender inequality shapes the link between climate change and communal violence. Large-N subnational panel analysis (Africa and MENA, 1990–2022) at PRIO-GRID level, using SPEI drought anomalies and UCDP data.
-- **Demilitarisation and autonomy.** The demilitarised and neutralised status of Åland, minority protection and contemporary Nordic-Baltic security.
-- **Nonviolence and civilian protection.** Unarmed civilian protection, strategic nonviolence and youth, peace and security (YPS).
+Climate–security mechanisms; gender, masculinities and conflict; unarmed civilian protection and strategic nonviolence; demilitarisation, territorial autonomy and minority protection; peacebuilding and mediation
 
 ### Selected work
 
