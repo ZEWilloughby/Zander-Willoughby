@@ -81,12 +81,18 @@ ul { padding-left: 1.1rem; margin: 0 0 1rem; }
 li { margin: 0 0 0.6rem; }
 li::marker { color: var(--muted); }
 
-/* "Add me to your contacts" link becomes a button */
+/* Button row: contact card and CV downloads */
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.75rem 0 0.5rem;
+}
+.actions a,
 a[href$=".vcf"] {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  margin-top: 0.25rem;
   padding: 0.6rem 1.1rem;
   border: 1px solid var(--faint);
   border-radius: 999px;
@@ -95,10 +101,21 @@ a[href$=".vcf"] {
   font-family: var(--sans);
   font-weight: 600;
   font-size: 0.95rem;
+  line-height: 1.2;
   text-decoration: none;
 }
-a[href$=".vcf"]::before { content: "+"; color: var(--accent); font-weight: 400; font-size: 1.15em; line-height: 1; }
+.actions a:hover, .actions a:focus-visible,
 a[href$=".vcf"]:hover, a[href$=".vcf"]:focus-visible { border-color: var(--accent); color: var(--text); }
+.actions a::before, a[href$=".vcf"]::before { color: var(--accent); font-weight: 400; line-height: 1; }
+a[href$=".vcf"]::before { content: "+"; font-size: 1.15em; }
+.actions a[href$=".pdf"]::before { content: "\2193"; font-size: 1em; }
+.actions a[href$=".pdf"]::after {
+  content: "PDF";
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
 
 /* Contact list: no bullets, tidy rows */
 h3#contact + ul, h2#contact + ul { list-style: none; padding: 0; }
