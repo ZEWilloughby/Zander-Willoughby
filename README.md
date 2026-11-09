@@ -8,6 +8,8 @@ Based in Mariehamn, Åland Islands. Research at the [Åland Islands Peace Instit
 
 ### Contact
 
+- **[Add me to your contacts](Zander%20Willoughby.vcf)**
+
 - Email: zander.e.willoughby@gmail.com
 - LinkedIn: [linkedin.com/in/zanderewilloughby](https://www.linkedin.com/in/zanderewilloughby/)
 - ORCID: [0009-0005-7079-0620](https://orcid.org/0009-0005-7079-0620)
