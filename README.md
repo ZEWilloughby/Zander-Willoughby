@@ -15,7 +15,7 @@ Based in Mariehamn, Åland Islands, at the [Åland Islands Peace Institute](http
 
 - Email: zander.e.willoughby@gmail.com
 - LinkedIn: [linkedin.com/in/zanderewilloughby](https://www.linkedin.com/in/zanderewilloughby/)
-- ORCID: [0009-0005-7079-0620](https://orcid.org/0009-0005-7079-0620)
+
 
 ---
 
@@ -33,6 +33,7 @@ Climate–security mechanisms; gender, masculinities and conflict; unarmed civil
 
 - Willoughby, Z. (2025). Saving Strangers or Keeping Ourselves Safe? An Analysis of Peacekeeping and Unarmed Civilian Protection. *Pax et Bellum Journal*, 12. [doi:10.33063/pbj.v12i2025.702](https://doi.org/10.33063/pbj.v12i2025.702)
 - Willoughby, Z. (2025). *Boiling Points: Gender Inequality as a Moderator for Climate Change and Communal Violence*. Master's thesis, Department of Peace and Conflict Research, Uppsala University. [urn:nbn:se:uu:diva-558620](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-558620)
+- ORCID: [0009-0005-7079-0620](https://orcid.org/0009-0005-7079-0620)
 
 
 
