@@ -20,7 +20,7 @@ Languages: English, Swedish, French.
 
 ### Research
 
-- **Climate, gender and conflict.** How gender inequality shapes the link between climate shocks and communal violence. Large-N subnational panel analysis (Africa and MENA, 1990–2022) at PRIO-GRID level, using SPEI drought anomalies and UCDP data.
+- **Climate, gender and conflict.** How gender inequality shapes the link between climate change and communal violence. Large-N subnational panel analysis (Africa and MENA, 1990–2022) at PRIO-GRID level, using SPEI drought anomalies and UCDP data.
 - **Demilitarisation and autonomy.** The demilitarised and neutralised status of Åland, minority protection and contemporary Nordic-Baltic security.
 - **Nonviolence and civilian protection.** Unarmed civilian protection, strategic nonviolence and youth, peace and security (YPS).
 
