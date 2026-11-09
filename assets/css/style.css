@@ -118,8 +118,8 @@ a[href$=".vcf"]::before { content: "+"; font-size: 1.15em; }
 }
 
 /* Contact list: no bullets, tidy rows */
-h3#contact + ul, h2#contact + ul { list-style: none; padding: 0; }
-h3#contact + ul li, h2#contact + ul li { margin: 0 0 0.35rem; }
+.actions + ul { list-style: none; padding: 0; margin-top: 1.25rem; }
+.actions + ul li { margin: 0 0 0.35rem; }
 
 footer {
   max-width: 38rem;
