@@ -1,3 +1,8 @@
 title: Zander Willoughby
 description: Peace and conflict researcher in Mariehamn, Åland. Climate security, gender and conflict, and territorial autonomy in the Nordic-Baltic region.
+url: "https://zewilloughby.github.io"
 baseurl: "/Zander-Willoughby"
+
+# Visit counting with GoatCounter (no cookies). Put your GoatCounter code
+# between the quotes, e.g. "zewilloughby". Leave empty to switch it off.
+goatcounter: ""
