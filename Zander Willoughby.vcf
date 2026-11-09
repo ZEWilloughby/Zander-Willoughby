@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.6.2//EN
+N:Willoughby;Zander;;;
+FN:Zander Willoughby
+EMAIL;type=INTERNET;type=pref:zander.e.willoughby@gmail.com
+ADR;type=WORK;type=pref:;;;Mariehamn;Åland;;Finland
+NOTE:Nordic Youth Climate Alliance\nÅland Islands Peace Institute\nClimate change\, gender/masculinities\, conflict research
+item1.URL;type=pref:https://www.linkedin.com/in/zanderewilloughby/
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
