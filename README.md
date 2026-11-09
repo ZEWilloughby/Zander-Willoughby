@@ -9,8 +9,8 @@ Based in Mariehamn, Åland Islands, at the [Åland Islands Peace Institute](http
 ### Contact
 
    [Add me to your contacts](Zander%20Willoughby.vcf) 
-   [CV in English](cv/Zander-Willoughby-CV-EN.pdf) 
-   [CV på svenska](cv/Zander-Willoughby-CV-SV.pdf)
+   [CV in English](cv/Zander-Willoughby-CV-EN.pdf){: target="_blank" rel="noopener"}
+   [CV på svenska](cv/Zander-Willoughby-CV-SV.pdf){: target="_blank" rel="noopener"}
    {: .actions}
 
 - Email: zander.e.willoughby@gmail.com
