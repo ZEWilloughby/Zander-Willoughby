@@ -2,7 +2,7 @@
 
 **Peace and conflict researcher** working on climate security, gender and conflict, and territorial autonomy.
 
-Based in Mariehamn, Åland Islands, at the [Åland Islands Peace Institute](https://www.peace.ax/) (Ålands fredsinstitut). Seeking new opportunities from January 2027 in research, programme, and policy roles across peace, security, gender, and climate.
+Based in Mariehamn, Åland Islands, at the [Åland Islands Peace Institute](https://www.peace.ax/) (Ålands fredsinstitut). Seeking new opportunities in research, programme, and policy roles across peace, security, gender, and climate from January 2027.
 
 ---
 
@@ -13,7 +13,7 @@ Based in Mariehamn, Åland Islands, at the [Åland Islands Peace Institute](http
    [CV på svenska](cv/Zander-Willoughby-CV-SV.pdf){: target="_blank" rel="noopener"}
    {: .actions}
 
-- Email: zander.e.willoughby@gmail.com
+- Email: - Email: [zander.e.willoughby@gmail.com](mailto:zander.e.willoughby+bc@gmail.com?body=Hi%20Zander%2C%0A%0A)
 - LinkedIn: [linkedin.com/in/zanderewilloughby](https://www.linkedin.com/in/zanderewilloughby/)
 
 
@@ -21,9 +21,11 @@ Based in Mariehamn, Åland Islands, at the [Åland Islands Peace Institute](http
 
 ### Background
 
+COP31 delegate with the [Nordic Youth Climate Alliance](https://www.linkedin.com/company/nordicyca/posts/){: target="_blank" rel="noopener"}. [See our statement here.](https://www.canva.com/design/DAHZQWtL8w8/aYo-eUTFWvJvIFaevtEZeA/view){: target="_blank" rel="noopener"}
+
 I’m a peace and conflict researcher at the Åland Islands Peace Institute, where I work on Åland’s demilitarisation, autonomy and minority protection. Before that, I spent several years in peacebuilding practice in Washington, DC, at Search for Common Ground and the +Peace Coalition at the Alliance for Peacebuilding. That work covered knowledge-sharing, strategy, coalition-building, and advocacy on Youth, Peace & Security. I hold a master’s in Peace & Conflict Studies from Uppsala University, where I was a Rotary Peace Fellow and researched how gender inequality shapes the link between climate change and communal violence.
 
-Languages: English, Swedish, French.
+Languages: English, Swedish, French
 
 ### Research interests
 
